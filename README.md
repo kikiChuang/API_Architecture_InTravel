@@ -9,11 +9,11 @@ README
 
 ********
 ## 目錄
-*[PayEasyApi.Models](# Models層)
-*[PayEasyApi.DA.Repositories](# DA層)
-*[PayEasyApi.BL.Services](# BL層)
-*[PayEasyApi.UI.WebSite](# UI層)
-*[PayEasyApi.Utility.Extensions](# Utility層)
+* [PayEasyApi.Models](# Models層)
+* [PayEasyApi.DA.Repositories](# DA層)
+* [PayEasyApi.BL.Services](# BL層)
+* [PayEasyApi.UI.WebSite](# UI層)
+* [PayEasyApi.Utility.Extensions](# Utility層)
 
 ### Models層
 
